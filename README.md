@@ -94,9 +94,6 @@ Real-mode outputs are isolated from the bundled simulation results. Update the r
 
 Educational decision support only, not a production payment system. False positives may inconvenience customers and false negatives may permit loss. Do not store raw card details or expose the local server to the internet. The simulated features have artificial class patterns; they do not establish real-world performance or fairness. The real benchmark is old, anonymized, from a limited geography and short time span. No demographic attributes are available to evaluate group fairness; absence of data does not establish fairness. Real deployment requires chronological validation, drift monitoring, calibration, operational costs, security review and human oversight.
 
-## College submission and demonstration
-
-Submit this complete project folder with the report, presentation, source code, notebook, dataset and saved results. Start with the PDF report in `docs/`, use the PowerPoint for the presentation, and demonstrate the application by following the Quick start section above. The viva notes provide revision questions and answers. Add your student/team details if your college requires them, and obtain faculty approval for the simulated dataset or run the optional real-data workflow before submission. No online repository is needed to run the project.
 
 ## References
 
